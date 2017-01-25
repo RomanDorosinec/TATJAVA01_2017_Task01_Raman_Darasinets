@@ -1,4 +1,4 @@
-package com.epam.task1.Exercise7;
+package com.epam.task1;
 
 import java.util.ArrayList;
 

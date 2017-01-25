@@ -1,4 +1,4 @@
-package com.epam.task1.exercise1;
+package com.epam.task1;
 
 /**
  *
